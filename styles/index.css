@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+  color: #d4d4dc;
+  text-align: center;
+}
+body {
+  background: #393f4d;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+a {
+  text-decoration: none;
+}
+h1,
+h2 {
+  color: #feda6a;
+}
+.tech {
+  color: #feda6a;
+}
+.project-image {
+  border: 1px solid #393f4d;
+  width: 100%;
+  max-height: 500px;
+  max-width: 500px;
+  box-shadow: 0 0 20px #feda6a;
+}

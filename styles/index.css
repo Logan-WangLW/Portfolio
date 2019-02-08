@@ -7,9 +7,7 @@
 body {
   background: #393f4d;
 }
-/* a {
-  text-decoration: none;
-} */
+
 h1,
 h2 {
   color: #feda6a;
@@ -24,7 +22,6 @@ h2 {
   max-width: 500px;
   box-shadow: 0 0 20px #feda6a;
 }
-
 
 .formLinks{
   display: flex;

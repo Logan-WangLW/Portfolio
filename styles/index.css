@@ -5,13 +5,16 @@
   text-align: center;
 }
 body {
-  background: #393f4d;
+  background: #1d1e22;
 }
-
+header, nav, main {
+	max-width: 1400px;
+}
 h1,
 h2 {
   color: #feda6a;
 }
+
 .tech {
   color: #feda6a;
 }
@@ -120,4 +123,10 @@ border-radius: 5px;
 		padding-left: 8em;
 		padding-right: 8em;
 	}
+	#profilepic{
+		max-width: 20%;
+		max-height: 20%;
+		border: 5px solid #feda6a;
+		border-radius: 5px;
+		}
 }
